@@ -1,15 +1,11 @@
 # Digital-Eletronics
 
-Week 1
-![Breadboard](/images/LED_Breadboard2.jpg)
+## Week 3
 
 
-Week 2
-https://www.dougiemann.co.uk/voiceblox
+## Week 2
+-I like this project: https://www.dougiemann.co.uk/voiceblox
 
+![wee2](/images/week2.png)
 
-Week 3
-
-Week 4
-
-Week 5
+## week 1
