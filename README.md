@@ -1,11 +1,18 @@
 # Digital-Eletronics
 
 ## Week 3
-
+![week31](/images/week31.png)
+![week32](/images/week32.png)
+![week33](/images/week33.png)
 
 ## Week 2
--I like this project: https://www.dougiemann.co.uk/voiceblox
+-I like this project because as a chinese speaker, it is very natural for me to use the tones. But it is a good idea for learning device.
+https://www.dougiemann.co.uk/voiceblox
+![week22](/images/week22.png)
+![week22](/images/week22.png)
 
-![wee2](/images/week2.png)
 
-## week 1
+LED Testing:
+![week2](/images/week2.png)
+
+## Week 1
