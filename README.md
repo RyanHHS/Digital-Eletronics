@@ -10,7 +10,6 @@
 
 https://www.dougiemann.co.uk/voiceblox
 ![week22](/images/week22.png)
-![week22](/images/week22.png)
 
 
 LED Testing:
