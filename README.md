@@ -1,6 +1,8 @@
 # Digital-Eletronics
 
 Week 1
+![Breadboard](/images/LED_Breadboard2.jpg)
+
 
 Week 2
 https://www.dougiemann.co.uk/voiceblox
