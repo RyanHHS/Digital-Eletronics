@@ -1,7 +1,7 @@
 # Digital-Eletronics
 
 ## Week 4-7
-
+![week_4](/Week_04/IMG_9032.HEIC)
 ## Week 3
 ![week31](/images/week31.png)
 ![week32](/images/week32.png)
