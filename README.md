@@ -3,16 +3,41 @@
 
 ## Week 7 (Midterm)
 
+In the future, I want to make the sensor and the LED lights on the jacket so it's easier to wear and more fashionable. I found some conductive thread that I think would work great on clothes, as well as other smaller boards (eg. Feather). I also want to make the backside of the jacket for slowing/stopping signals, which may use other sensors to activate. Overall I really enjoy making the project. Starting from scratch, solving problems step by step towards making a workable prototype. 
+
+
+Then I attach all the components together. I bought some velcro strips for the handles on the sides, for straping the prototype on to the hand.
+
+![week4-7_16](/Week_07/DE_midterm_process_small.gif)
+![week4-7_15](/Week_06/IMG_9098.jpg)
+![week4-7_14](/Week_06/IMG_9097.jpg)
+
+
 ## Week 6 (Midterm)
+
+After I am done with testing and I start making the outer case with Rhino5 for prototype. Then I 3D printed in the lab.
+
+![week4-7_13](/Week_04-07_01/RH03.PNG)
+![week4-7_12](/Week_04-07_01/RH05.PNG)
+![week4-7_11](/Week_04-07_01/RH04.PNG)
+![week4-7_10](/Week_04-07_02/RH01.PNG)
+![week4-7_09](/Week_04-07_02/RH02.PNG)
+
+testing the sensor and the code, you will be able to find the X, Y, Z axis directions in the sensor and then fine tune it to the hand gestures of the rider rasing hand to signal turning left or right. After setting up the code for the sensor, then I add LED light code together to turn on/off when different gesture is made.
+
+![week4-7_06](/Week_05/IMG_9068.jpg)
+![week4-7_07](/Week_05/IMG_9069.jpg)
+![week4-7_08](/Week_05/IMG_9096.jpg)
+
 
 ## Week 5 (Midterm)
 I seperate the idea into smaller parts. For this project I am creating the hands part, where when rider raise the hand, LED lights will light up to signal turns.
 
-### To do this I gethered the materials listed below:
+ To do this I gethered the materials listed below:
 
-  ### 1. Arduino UNO board
-  ### 2. Adafruit Flora LSM303DLHM Accel + Compass Sensor
-  ### 3. Adafruit NeoPixel RGB LED lights (4)
+   1. Arduino UNO board
+   2. Adafruit Flora LSM303DLHM Accel + Compass Sensor
+   3. Adafruit NeoPixel RGB LED lights (4)
 
 ![week4-7_04](/Week_04/IMG_9067.jpg)
 ![week4-7_03](/Week_04/IMG_9034.jpg)
