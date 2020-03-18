@@ -2,10 +2,14 @@
 
 ## Week 4-7
 
+ To do this, I have to 
+
 ![week4-7_01](/Week_04/IMG_9067.jpg)
 ![week4-7_01](/Week_04/IMG_9034.jpg)
 ![week4-7_01](/Week_04/IMG_9033.jpg)
 ![week4-7_01](/Week_04/IMG_9032.jpg)
+
+After some more inspiration, I changed my idea to a wearable tech (consider my background as jewelry designer). I want to make a Bike light that is attached to rider's hand and is able to signal when turning left and right. 
 
 
 ## Week 3
