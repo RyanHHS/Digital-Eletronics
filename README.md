@@ -3,6 +3,8 @@
 
 ## Week 7 (Midterm)
 
+### Midterm Arduino Code Please See File: ![week4-7_16](/midterm_arduino_code/accelsensor/accelsensor.ino)
+
 In the future, I want to make the sensor and the LED lights on the jacket so it's easier to wear and more fashionable. I found some conductive thread that I think would work great on clothes, as well as other smaller boards (eg. Feather). I also want to make the backside of the jacket for slowing/stopping signals, which may use other sensors to activate. Overall I really enjoy making the project. Starting from scratch, solving problems step by step towards making a workable prototype. 
 
 
