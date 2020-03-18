@@ -2,7 +2,7 @@
 
 ## Week 4-7
 
-![week4-7_01](/Week_04/IMG_9037.jpg)
+![week4-7_01](/Week_04/IMG_9067.jpg)
 ![week4-7_01](/Week_04/IMG_9034.jpg)
 ![week4-7_01](/Week_04/IMG_9033.jpg)
 ![week4-7_01](/Week_04/IMG_9032.jpg)
