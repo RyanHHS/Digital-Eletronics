@@ -1,5 +1,8 @@
 # Digital-Eletronics
 
+## Final Project - Part 01
+
+![week4-7_13](/Week_04-07_01/RH03.PNG)
 
 ## Week 7 (Midterm)
 
