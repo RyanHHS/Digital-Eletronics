@@ -2,7 +2,22 @@
 
 ## Final Project - Part 01
 
-![week4-7_13](/Week_04-07_01/RH03.PNG)
+With the final project, I came up with 3 initial idea.
+Third idea: Due to the Covid-19 pandemic, the SF Bay Area is carrying out WORK FROM HOME and SOCIAL DISTANCING policy. During the time at home I tend to leave my phone on the table and check the phone less than usual. the become a problem because people is hard to find me or for me to access information at first hand. Therefore I want to create a lamp that tells me if I have a notification coming in.
+
+![FinalIdea01](/Final/IMG_notificationamplifier.jpg)
+
+![FinalIdea01](/Final/IMG_washhandtimer.jpg)
+
+Second idea: Due to the recent (2020 April) Covid-19 pandemic, I want to create something that can make our lives better in the situation. So I want to create a hand wash timer, where it will be placed beside the sink or on the wall. Whenever the user is washing hands, the most effective duration is at least 20 seconds in order to kill all the virus.
+
+![FinalIdea01](/Final/IMG_dooropener.jpg)
+
+![FinalIdea01](/Final/unnamed.jpg)
+
+First idea: I am think of hacking the push bar door with a "Door Opener", because I in my daily life, I constainly gets lock out of this one-way door. If I want to get back inside the building, I will have to go all the way to another door. 
+
+
 
 ## Week 7 (Midterm)
 
