@@ -2,10 +2,11 @@
 
 ## Final Project - Part 01
 
-With the final project, I came up with 3 initial idea.
-Third idea: Due to the Covid-19 pandemic, the SF Bay Area is carrying out WORK FROM HOME and SOCIAL DISTANCING policy. During the time at home I tend to leave my phone on the table and check the phone less than usual. the become a problem because people is hard to find me or for me to access information at first hand. Therefore I want to create a lamp that tells me if I have a notification coming in.
+With the final project, I came up with 3 initial idea. Due to limited supply and other constraint, in the end I choose the Notification Amplifier. 
 
 ![FinalIdea01](/Final/IMG_notificationamplifier.jpg)
+
+Third idea: Due to the Covid-19 pandemic, the SF Bay Area is carrying out WORK FROM HOME and SOCIAL DISTANCING policy. During the time at home I tend to leave my phone on the table and check the phone less than usual. the become a problem because people is hard to find me or for me to access information at first hand. Therefore I want to create a lamp that tells me if I have a notification coming in.
 
 ![FinalIdea01](/Final/IMG_washhandtimer.jpg)
 
