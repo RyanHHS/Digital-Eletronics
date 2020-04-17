@@ -22,6 +22,8 @@ Then I attach all the components together. I bought some velcro strips for the h
 ## Week 6 (Midterm)
 
 After I am done with testing and I start making the outer case with Rhino5 for prototype. Then I 3D printed in the lab.
+Schematic:
+![week4-7_09](/Week_07/Schematic.png)
 
 ![week4-7_13](/Week_04-07_01/RH03.PNG)
 ![week4-7_12](/Week_04-07_01/RH05.PNG)
