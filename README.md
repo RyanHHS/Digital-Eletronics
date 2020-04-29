@@ -1,4 +1,14 @@
 # Digital-Eletronics
+## Final Project - Part 02
+
+03. coding and troubleshoot:
+
+
+02. Gathering Materials:
+
+
+01. Purpose:
+During the Covid-19 pandemic, the Stay At Home policy paused all work and study. We are recommend to stay at home and do not go out unless it is necessary. This increased the time I stay at home drastically 
 
 ## Final Project - Part 01
 
