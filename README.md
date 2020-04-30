@@ -33,7 +33,7 @@ Jumper wires and breadboard are the tools for fast prototyping, so I don't need 
 
 01. Purpose:
 
-![conceptdrawing](/Final 2/IMG_9161.jpg)
+![conceptdrawing](/Final_2/IMG_9161.jpg)
 
 During the Covid-19 pandemic, the Stay At Home policy paused all work and study. We recommend to stay at home and do not go out unless it is necessary. This increased the time I stayed at home drastically. Since then, I go out only for grocery and home essentials once every 2-3 weeks. Because of this, I start to enjoy life, and I want to use this chance to limit myself from using phones all the time. It is so effective that I rarely check my phone, sometimes forget where it is at home. This caused my friends and family were not able to find me instantly. Slow or late reply becomes regular.
 
