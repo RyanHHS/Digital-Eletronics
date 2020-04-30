@@ -1,11 +1,35 @@
 # Digital-Eletronics
+
+## Final Project - Par 03
+
+
+
 ## Final Project - Part 02
 
-03. coding and troubleshoot:
+03. Building and Troubleshoot:
 
 There are two sets of code I am working on, one is the Arduino RGB color sensor code, and the other one is the RGB diffused common anode LED lights. Then I will combine both of them when they work separately. The following steps are how I progress with the 
-First, I try to connect the hardware, as you can see below. the s
+First, I try to connect the hardware, as you can see below. The schematic shows the connection between RGB sensor and Arduino Uno.
 
+![arduino](/Final_2/Schematic1.png)
+
+Then, I test out the RGB sensor library code with out with the Serial Monitor and fix any hardware problem if theres any. With the benefit of Serial Monitor I am able to adjust and test out the color sensitivity by looking at the data. 
+
+![arduino](/Final_2/ezgif.com-video-to-gif.gif)
+
+Second, I test the RGB diffused common cathode/anode LED lights by setting up the hardware as well as testing the code for RGB diffused common cathode/anode LED lights. During the process I was stuck with the problem not working for a long time because I did not know the difference between common cathode and anode. normally we use Common Cathode but in this case I had a common anode LED light and the code will work differently with common anode. 
+
+![arduino](/Final_2/common_cathode_and_common_anode_rgb_led_6yyt7t5x44.jpeg)
+
+You cannot distinguish between the common cathode and common anode type by just looking at the RGB led because both look same. You will have to make the connections to see that either it is common cathode or common anode.
+
+The RGB led has one big lead than the other leads. In the common cathode case, it will be connected to GND and in the common anode case; it will be connected to 5V.
+
+After figuring the Common cathode/anode difference and the RGB LED code works, its time for me to combine the two code together.
+
+Lastly, I search online with information and other instructions I combine the two hardwares and testing the code out.
+
+![arduino](/Final_2/ezgif.cof.gif)
 
 02. Gathering Materials:
 
