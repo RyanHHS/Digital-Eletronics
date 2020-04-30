@@ -19,11 +19,13 @@ Then, I test out the RGB sensor library code with out with the Serial Monitor an
 
 Second, I test the RGB diffused common cathode/anode LED lights by setting up the hardware as well as testing the code for RGB diffused common cathode/anode LED lights. During the process I was stuck with the problem not working for a long time because I did not know the difference between common cathode and anode. normally we use Common Cathode but in this case I had a common anode LED light and the code will work differently with common anode. 
 
-![arduino](/Final_2/common_cathode_and_common_anode_rgb_led_6yyt7t5x44.jpeg)
+![arduino](/Final_2/rgb_led_arduino_bb_sY5LOs2VhK.png)
 
 You cannot distinguish between the common cathode and common anode type by just looking at the RGB led because both look same. You will have to make the connections to see that either it is common cathode or common anode.
 
 The RGB led has one big lead than the other leads. In the common cathode case, it will be connected to GND and in the common anode case; it will be connected to 5V.
+
+![arduino](/Final_2/common_cathode_and_common_anode_rgb_led_6yyt7t5x44.jpeg)
 
 After figuring the Common cathode/anode difference and the RGB LED code works, its time for me to combine the two code together.
 
