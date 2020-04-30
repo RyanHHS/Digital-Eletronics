@@ -35,7 +35,7 @@ After figuring the Common cathode/anode difference and the RGB LED code works, i
 
 Lastly, I search online with information and other instructions I combine the two hardwares and testing the code out.
 
-![arduino](/Final_2/ezgif.cof.gif)
+![arduino](/Final_2/-video-to-gif.gif)
 
 02. Gathering Materials:
 
