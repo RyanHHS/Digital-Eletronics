@@ -3,12 +3,35 @@
 
 03. coding and troubleshoot:
 
+There are two sets of code I am working on, one is the Arduino RGB color sensor code, and the other one is the RGB diffused common anode LED lights. Then I will combine both of them when they work separately. The following steps are how I progress with the 
+First, I try to connect the hardware, as you can see below. the s
+
 
 02. Gathering Materials:
 
+To make a notification amplifier, I gathered the following items:
+
+Essential Items:
+Arduino Uno Board
+Arduino RGB color sensor (tcs34725)
+resistors 220 ohm
+RGB diffused common cathode/anode LED lights (both cathode and anode works but be clear which one you get)
+
+Nice To Have Items:
+Jumper wires
+breadboard
+
+The above shows the essential items and "nice to have" items to create this project. The essential items are the primary components, an Arduino board to load and run the codes. In this case, I use the Uno board. The Arduino RGB color sensor (tcs34725) that is able to detect the colors when the phone screen lights up. Lastly, the resistors that connect the board to the LED light.
+
+Jumper wires and breadboard are the tools for fast prototyping, so I don't need to solder anything on to the Uno board.
 
 01. Purpose:
-During the Covid-19 pandemic, the Stay At Home policy paused all work and study. We are recommend to stay at home and do not go out unless it is necessary. This increased the time I stay at home drastically 
+
+During the Covid-19 pandemic, the Stay At Home policy paused all work and study. We recommend to stay at home and do not go out unless it is necessary. This increased the time I stayed at home drastically. Since then, I go out only for grocery and home essentials once every 2-3 weeks. Because of this, I start to enjoy life, and I want to use this chance to limit myself from using phones all the time. It is so effective that I rarely check my phone, sometimes forget where it is at home. This caused my friends and family were not able to find me instantly. Slow or late reply becomes regular.
+
+Because most of the time, I leave my phone on the table. When I am doing other things, I will not be able to check my phone all the time and to hear or see the notification. To balance the situation, I want to create a notification amplifier. 
+
+After doing some testing, I found out that often missing notification is because the phone is lying flat on the table, which makes it harder to see for distance. Based on human's most used sense, sight, I want to create a notification lamp that signals me when there's a notification by making the notification amplifier verticle so I can see it from far away. 
 
 ## Final Project - Part 01
 
