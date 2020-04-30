@@ -14,12 +14,19 @@ To make a notification amplifier, I gathered the following items:
 Essential Items:
 
 Arduino Uno Board
+
 ![arduino](/Final_2/light_50_MED.jpg)
+
 Arduino RGB color sensor (tcs34725)
+
 ![RGBsensor](/Final_2/light_1334_MED.jpg)
+
 resistors 220 ohm
+
 ![RGBsensor](/Final_2/4415447.jpg)
+
 RGB diffused common cathode/anode LED lights (both cathode and anode works but be clear which one you get)
+
 ![RGBsensor](/Final_2/09264-LED_-_RGB_Diffused_Common_Cathode-03.jpg)
 ![RGBsensor](/Final_2/common_cathode_and_common_anode_rgb_led_6yyt7t5x44.jpeg)
 
