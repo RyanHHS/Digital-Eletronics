@@ -1,8 +1,12 @@
 # Digital-Eletronics
 
-## Final Project - Par 03
+## Final Project - Part 03
 
+Final Design:
 
+Final Schematic:
+
+Prototype:
 
 ## Final Project - Part 02
 
