@@ -14,18 +14,20 @@ To make a notification amplifier, I gathered the following items:
 Essential Items:
 
 Arduino Uno Board
-
+![arduino](/Final_2/light_50_MED.jpg)
 Arduino RGB color sensor (tcs34725)
-
+![RGBsensor](/Final_2/light_1334_MED.jpg)
 resistors 220 ohm
-
+![RGBsensor](/Final_2/4415447.jpg)
 RGB diffused common cathode/anode LED lights (both cathode and anode works but be clear which one you get)
+![RGBsensor](/Final_2/09264-LED_-_RGB_Diffused_Common_Cathode-03.jpg)
+![RGBsensor](/Final_2/common_cathode_and_common_anode_rgb_led_6yyt7t5x44.jpeg)
 
 Nice To Have Items:
 
-Jumper wires
+ - Jumper wires
 
-breadboard
+ - breadboard
 
 The above shows the essential items and "nice to have" items to create this project. The essential items are the primary components, an Arduino board to load and run the codes. In this case, I use the Uno board. The Arduino RGB color sensor (tcs34725) that is able to detect the colors when the phone screen lights up. Lastly, the resistors that connect the board to the LED light.
 
