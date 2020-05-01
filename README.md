@@ -2,6 +2,8 @@
 
 ## Final Project - Part 03
 
+For more, please watch https://youtu.be/k00ajvjHD24
+
 Final Design:
 
 I want to create the notification amplifier so that I can see if theres any messages coming in from far away. So I designed a desk lamp, with the function of sensing the phone screen. As you can see at the diagram below, there's a RGB color sensor at the bottom of the lamp. User will need to place their phone at the bottom of lamp (as shown in the diagram), and when there's notification or new messgaes, the sensor will detect the color change from the phone and amplified on the lamp with LED light, like the red circle light in the daigram.
