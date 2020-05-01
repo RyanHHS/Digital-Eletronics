@@ -4,9 +4,9 @@
 
 Final Design:
 
-![arduino](/Final_2/Annotation 2020-04-29 210016.png)
+![arduino](/Final_2/Annotation2.png)
 
-![arduino](/Final_2/Annotation 2020-04-29 210210.png)
+![arduino](/Final_2/Annotation1.png)
 
 ![arduino](/Final_2/untitled.8.png)
 
