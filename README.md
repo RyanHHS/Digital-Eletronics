@@ -2,7 +2,7 @@
 
 ## Final Project - Part 03
 
-Introduction video, please watch https://youtu.be/k00ajvjHD24
+Introduction video, please watch https://youtu.be/OpgDh4S7FLo
 
 Project Code, please go to "Final_Code" file
 
