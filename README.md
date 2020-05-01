@@ -6,7 +6,7 @@ Final Design:
 
 I want to create the notification amplifier so that I can see if theres any messages coming in from far away. So I designed a desk lamp, with the function of sensing the phone screen. As you can see at the diagram below, there's a RGB color sensor at the bottom of the lamp. User will need to place their phone at the bottom of lamp (as shown in the diagram), and when there's notification or new messgaes, the sensor will detect the color change from the phone and amplified on the lamp with LED light, like the red circle light in the daigram.
 
-The reason why I chose RGB Color sensor is that I think it would be interesting that user is able to see the color of their phone when there is new notification. I've think about other sensor as well. The sound sensor or virbraetion sensor would work well in this project as well.
+The reason why I chose RGB Color sensor is that I think it would be interesting that user is able to see the color of their phone when there is new notification. I've think about other sensor as well. The sound sensor or virbration sensor would work well in this project as well. Addtionaly, I think making the few rolls of LED light that notify user how many notification the user has missed would be very helpful, and the visual aspect will be more intese as well.(shown in the diagram below with multiple red lights)
 
 In Conclusion, I really want push the project forward in the futre, to make the prototype in to physical product. I know there are still many functions and technical issue waiting to be fixed, But I think this would be a very intersting project. 
 
@@ -19,12 +19,23 @@ In Conclusion, I really want push the project forward in the futre, to make the 
 ![arduino](/Final_2/Annotation1.png)
 
 ![arduino](/Final_2/Annotation2.png)
-wireframe of the Notification Amplifer
+
+(wireframe of the Notification Amplifer)
 
 
 Prototype:
 
+The following diagram is the prototype I made for this project. I was planning to build the model out of wood and plastic but due to the Covid-19 pandemic, school is colsed and I am lack of materials and tools to create fine prototype. With the limited resources, I manage to creat a functional prototype.
+
+![arduino](/Final_2/ScreenShot01.png)
+
+The "lamp" with an LED light hanging verticlely helps user to see the signal if there's any new notification.
+
+![arduino](/Final_2/ScreenShot02.png)
+
 Final Schematic:
+
+When there's notification coming in, the phone will lights up, and the RGB sensor will detect the phone screen and give signal to the LED light to amplify the notification from the phone. 
 
 ![arduino](/Final_2/Schematic.png)
 
