@@ -4,9 +4,6 @@
 
 Final Design:
 
-![arduino](/Final_2/Annotation2.png)
-
-![arduino](/Final_2/Annotation1.png)
 
 ![arduino](/Final_2/untitled.8.png)
 
@@ -14,7 +11,9 @@ Final Design:
 
 ![arduino](/Final_2/untitled.13.png)
 
+![arduino](/Final_2/Annotation1.png)
 
+![arduino](/Final_2/Annotation2.png)
 
 
 
