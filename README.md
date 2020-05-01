@@ -4,6 +4,20 @@
 
 Final Design:
 
+![arduino](/Final_2/Annotation 2020-04-29 210016.png)
+
+![arduino](/Final_2/Annotation 2020-04-29 210210.png)
+
+![arduino](/Final_2/untitled.8.png)
+
+![arduino](/Final_2/untitled.11.png)
+
+![arduino](/Final_2/untitled.13.png)
+
+
+
+
+
 Prototype:
 
 Final Schematic:
