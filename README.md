@@ -4,9 +4,13 @@
 
 Final Design:
 
+Prototype:
+
 Final Schematic:
 
-Prototype:
+![arduino](/Final_2/Schematic.png)
+
+This is the final schematic for the prototype. it connects the Arduino Uno with RGB color sensor and RGB LED light. Before connecting to the LED lgihts, theres 220hm
 
 ## Final Project - Part 02
 
