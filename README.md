@@ -4,7 +4,7 @@
 
 Introduction video, please watch https://youtu.be/OpgDh4S7FLo
 
-Project Code, please go to "Final_Code" file
+Project Code, please go to the File "Final_Code", inside the file you will find "sketch_apr24b" is the code for the project.
 
 Final Design:
 
